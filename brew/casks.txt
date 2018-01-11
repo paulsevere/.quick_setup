@@ -1,0 +1,11 @@
+alfred
+bettertouchtool
+font-firacode-nerd-font
+font-firacode-nerd-font-mono
+font-gandom
+font-hack-nerd-font
+font-roboto-mono
+google-chrome
+iterm2
+karabiner-elements
+visual-studio-code-insiders

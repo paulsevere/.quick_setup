@@ -1,0 +1,27 @@
+{
+  "workbench.colorTheme": "Themer Dark",
+  "problems.autoReveal": false,
+  "problems.decorations.enabled": false,
+  "editor.formatOnSave": true,
+  "git.decorations.enabled": true,
+  "scm.diffDecorations": "none",
+  "prettier.eslintIntegration": true,
+  "zenMode.hideTabs": false,
+  "window.restoreWindows": "none",
+  "window.newWindowDimensions": "fullscreen",
+  "window.closeWhenEmpty": true,
+  "explorer.confirmDragAndDrop": false,
+  "window.zoomLevel": 0,
+  "workbench.colorCustomizations": {
+    "editorError.border": "#35373d",
+    "editorWarning.border": "#35373d",
+  },
+  "prettier.printWidth": 100,
+  "workbench.tips.enabled": false,
+  "editor.minimap.enabled": false,
+  "prettier.singleQuote": true,
+  "[go]": {},
+  "eslint.enable": false,
+  "extensions.ignoreRecommendations": false,
+  "prettier.trailingComma": "all"
+}
